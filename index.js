@@ -13,8 +13,8 @@ client.once('ready', () => {
 	client.user.setPresence({
 		status: 'online',
 		activity: {
-			type: 'LISTENING',
-			name: 'Pluto and Baby Pluto Album',
+			type: 'WATCHING',
+			name: 'all star wars movies',
 		},
 	});
 });
