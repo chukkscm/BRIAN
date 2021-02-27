@@ -8,3 +8,5 @@ Create your own config.json file
     "token": "Your Token!"
 }
 ```
+
+`"under hiatus"`
