@@ -50,17 +50,5 @@ client.on('message', message => {
 				message.channel.send(`${message.author.username} you are really laughing your ass off`);
 			}, 1500);
 		}
-
-		if (args[i] === 'stfu') {
-			setTimeout(() => {
-				message.channel.send(`${message.author.username} knowback 5000 https://tenor.com/view/ace-attorney-no-u-shake-head-smh-no-gif-17801150`);
-			}, 1500);
-		}
-
-		if (args[i] === 'horny') {
-			setTimeout(() => {
-				message.channel.send(`${message.author.username} thats against the laws of GOD`);
-			}, 1500);
-		}
 	}
 });
